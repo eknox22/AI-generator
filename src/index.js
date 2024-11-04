@@ -1,5 +1,4 @@
 function displayQuote(response) {
-  console.log("quote generated");
   new Typewriter("#output", {
     strings: response.data.answer,
     autoStart: true,

@@ -16,7 +16,7 @@ function generate(event) {
 
   let apiKey = "t61a3de96178c340b47o7ff32962bb7f";
   let context =
-    "You are an expert at sharing motivational and inspirational quotes. Please generate a short inspirational quote in basic HTML using the <p> element and separate each line with a <br/>. Be polite and make sure to follow the user instructions. Do not include a title. At the end of the poem sign the poem with 'SheCodes AI' inside a <strong> element. ";
+    "You are an expert at sharing motivational and inspirational quotes. Please generate a short inspirational quote in basic HTML using the <p> element and separate each line with a <br/>. Be polite and make sure to follow the user instructions. Do not include a title. At the end of the poem sign the poem with 'SheCodes AI' inside a <strong> element. Do NOT have the word html in this. ";
 
   let prompt = `User instructions: Generate a motivational quote about ${insutrctionsInput.value}`;
 

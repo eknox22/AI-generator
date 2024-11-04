@@ -10,24 +10,27 @@
   <body>
     <div class="container">
       <header>
-        <h1>Inspriational quotes 🫶🏽</h1>
+        <h1>Inspirational quotes 🫶🏽</h1>
       </header>
 
       <main>
-        <form id="generator">
-          <input
-            type="text"
-            placeholder="Enter the topic"
-            autofocus
-            required
-            autocomplete="off"
-            class="instructions"
-            id="user-instructions"
-          />
-          <input type="submit" class="submit-button" />
-        </form>
+        <div class="form-container">
+          <form id="generator">
+            <input
+              type="text"
+              placeholder="Enter the topic"
+              autofocus
+              required
+              autocomplete="off"
+              class="instructions"
+              id="user-instructions"
+            />
+            <input type="submit" class="submit-button" />
+          </form>
+          <div class="hint">i.e: Love, Fitness, Friendships</div>
+        </div>
 
-        <div class="output" id="output"></div>
+        <div class="output hidden" id="output"></div>
       </main>
 
       <footer>

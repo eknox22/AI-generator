@@ -9,6 +9,7 @@ function displayQuote(response) {
   });
 }
 
+//Generate the quote
 function generate(event) {
   event.preventDefault();
 
@@ -22,8 +23,14 @@ function generate(event) {
 
   let apiUrl = `https://api.shecodes.io/ai/v1/generate?prompt=${prompt}&context=${context}&key=${apiKey}`;
 
+  //Hide the output and add a generating message
+  let quoteElement = document.querySelector("#output");
+  quoteElement.classList.remove("hidden");
+  quoteElement.innerHTML = `<div class="generating">⏳ Generating inspirational quote about ${insutrctionsInput.value} </div>`;
+
   axios.get(apiUrl).then(displayQuote);
 }
 
+//Call the form
 let generatorFormElement = document.querySelector("#generator");
 generatorFormElement.addEventListener("submit", generate);

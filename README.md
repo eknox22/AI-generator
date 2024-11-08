@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/6c5d4b3e-920e-44e6-8ad8-1a2797ddff67
 
 # Credits
 
-- The landing page was created by [eknox22](https://github.com/eknox22) as a final project for the SheCodes AI Add-on workshop.
+- The AI Quote Generator was created by [eknox22](https://github.com/eknox22) as a final project for the SheCodes AI Add-on workshop.
 
 # License
 

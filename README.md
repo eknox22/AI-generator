@@ -1,14 +1,14 @@
 # AI Inspirational Quote Generator
 
-https://github.com/user-attachments/assets/6c5d4b3e-920e-44e6-8ad8-1a2797ddff67
-
 ## Project Description
 
 _I created this project for the **SheCodes** AI Add-on workshop. This project is an **AI-powered inspriational quote generator** which asks users to input a theme for an inspirational quote. The quote is retrieved using the **SheCodes API** and displays the quote in a dynmaic, and engaging way using the [Typewriter.js plugin](https://github.com/tameemsafi/typewriterjs)._
 
+https://github.com/user-attachments/assets/6c5d4b3e-920e-44e6-8ad8-1a2797ddff67
+
 ### 1. Key features
 
-	- AI-Powered Joke Generation: Fetches an inspirational quote from the SheCodes API and AI when the user clicks the button.
+- AI-Powered Quote Generation: Fetches an inspirational quote from the SheCodes API and AI when the user clicks the button.
  - Typewriter Effect: Displays the joke text with a typewriter animation for an engaging user experience.
  - Error Handling: Displays a friendly message if there is an error with the API request.
  - Responsive Design: Optimised for both desktop and mobile devices.
@@ -26,7 +26,6 @@ _I created this project for the **SheCodes** AI Add-on workshop. This project is
 
 - Visit the Landing Page [here](https://norway-travel-project-ekc.netlify.app/)
 - Further info about [SheCodes](https://www.shecodes.io/)
-- Photos are from [Usplash](https://unsplash.com/)
 - The used fonts are from [Google Fonts](https://fonts.google.com/)
 
 # Credits

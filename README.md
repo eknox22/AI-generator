@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/6c5d4b3e-920e-44e6-8ad8-1a2797ddff67
 - CSS
 - Javascript: For interactive functionality and API integration
 - Typewriter.js: For the animated typewriter effect
-- Axios: For making HTTP requests to the AI joke API
+- Axios: For making HTTP requests to the AI quote API
 - VS Code
 
 ### 3. Links

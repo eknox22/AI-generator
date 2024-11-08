@@ -1,6 +1,6 @@
 # AI Inspirational Quote Generator
 
-https://github.com/user-attachments/assets/24bb82e3-ff7b-438b-8c68-b172478f608a
+https://github.com/user-attachments/assets/6c5d4b3e-920e-44e6-8ad8-1a2797ddff67
 
 ## Project Description
 
